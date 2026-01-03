@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>🎯Enthusiastic about new technologies and their application in the market. I work with a focus on Front-End Development, with experience in end-to-end projects, from conception to delivery and support.</p>
+<p align="left">✨ Creating bugs since 2022<br>🎯Enthusiastic about new technologies and their application in the market. I work with a focus on Front-End Development, with experience in end-to-end projects, from conception to delivery and support.</p>
 
 ###
 
